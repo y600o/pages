@@ -7,7 +7,7 @@
 
 **版本说明：** HTML版本无后台 [查看PHP版](https://gitee.com/LyLme/lylme_spage/tree/master)
 
- **演示站点：**[https://hao.lylme.com/html](https://hao.lylme.com/html)
+ **演示站点：**[https://y600o.online/](https://y600o.online/)
 
  **纯html版截图：**
 
